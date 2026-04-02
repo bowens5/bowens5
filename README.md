@@ -14,7 +14,6 @@ Computer Science student at **Harding University** (graduating May 2026), buildi
 
 ## Currently Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
@@ -46,13 +45,6 @@ Computer Science student at **Harding University** (graduating May 2026), buildi
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bowens5&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bowens5&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
